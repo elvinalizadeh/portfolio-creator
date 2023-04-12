@@ -183,5 +183,80 @@ a {
         display: none;
     }
 }
-
 /* trust section end */
+
+
+
+/* services-section start */
+/* 
+.services-section{
+    padding: 80px 171px 0
+} */
+
+.services-section h6{
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    font-size: 22px;
+    font-weight: 700;
+    color: #FF5E69;
+    padding-bottom: 20px;
+}
+
+.services-section h1{
+    text-align: center;
+    font-size: 54px;
+    font-weight: 700;
+    color: #000;
+    padding-bottom: 117px;
+}
+
+
+.services-section h2{
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 26.4px;
+    color: #000;
+    padding-bottom: 25px;
+}
+
+.services-cards img{
+    padding-bottom: 42px;
+}
+
+.services-cards{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.services-cards p{
+    font-size:16px;
+    font-weight: 400;
+    line-height: 28px;
+    color: #666;
+    padding-bottom: 21px;
+}
+
+.services-card {
+    min-width: 250px;
+}
+
+.services-cards ul{
+    list-style-type: square;
+    list-style-position: inside;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 28px;
+    color: #000;
+}
+
+
+
+
+
+
+
+
+
+/* services-section end */
